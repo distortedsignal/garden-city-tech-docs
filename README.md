@@ -9,6 +9,12 @@ Garden City Technical Documentation
 2. Board **ON**
 3. Under desk rack **ON**
 
+<details><summary>Image Summary</summary>
+
+[FOH Setup](images/IMG_1893.jpeg)
+
+</details>
+
 ### Stage Left - Upstage - Racks
 
 4. Middle rack - UPS power **ON**
@@ -19,6 +25,12 @@ Garden City Technical Documentation
     * Need both top and "middle" amp on
     * Order unimportant
 
+<details><summary>Image Summary</summary>
+
+[Amp and Patch Racks](images/IMG_1895.jpeg)
+
+</details>
+
 ### Center Stage - Downstage - Speakers and Subs
 
 7. Speakers and subs **ON**
@@ -26,10 +38,22 @@ Garden City Technical Documentation
     * Front fill speakers are a switch - no need to verify
     * Subs are janky
 
+<details><summary>Image Summary</summary>
+
+[Power Button and Switch Locations](images/IMG_1896.jpeg)
+
+</details>
+
 ### Front of House
 
 8. Power on Mac Mini
     * Password: `Jesus!!!`
+
+<details><summary>Image Summary</summary>
+
+[FOH Setup](images/IMG_1893.jpeg)
+
+</details>
 
 ## Running the Room
 
