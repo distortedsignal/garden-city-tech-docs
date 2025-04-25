@@ -11,7 +11,7 @@ Garden City Technical Documentation
 
 <details><summary>Image Summary</summary>
 
-[FOH Setup](images/IMG_1893.jpeg)
+![FOH Setup](images/IMG_1893.jpeg)
 
 </details>
 
@@ -27,7 +27,7 @@ Garden City Technical Documentation
 
 <details><summary>Image Summary</summary>
 
-[Amp and Patch Racks](images/IMG_1895.jpeg)
+![Amp and Patch Racks](images/IMG_1895.jpeg)
 
 </details>
 
@@ -40,7 +40,7 @@ Garden City Technical Documentation
 
 <details><summary>Image Summary</summary>
 
-[Power Button and Switch Locations](images/IMG_1896.jpeg)
+![Power Button and Switch Locations](images/IMG_1896.jpeg)
 
 </details>
 
@@ -51,7 +51,7 @@ Garden City Technical Documentation
 
 <details><summary>Image Summary</summary>
 
-[FOH Setup](images/IMG_1893.jpeg)
+![FOH Setup](images/IMG_1893.jpeg)
 
 </details>
 
